@@ -15,7 +15,7 @@ Jupyter Notebook is a Python tool that allows you to step your code and from a p
 [link to download Jupyter Notebook](https://jupyter.org/install)
 
 
-When using this program make sure the supplementary files are in the same file as the .ipynb (Jupyter Notebook file type)
+When using this program make sure the supplementary files are in the same folder as the .ipynb (Jupyter Notebook file type)
 
 
 Open .ipynb and everything should be good to go!
