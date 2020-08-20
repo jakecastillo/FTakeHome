@@ -6,7 +6,7 @@ Approach: Bottom-up! build a framework that takes in the important information a
 
 # How to see code
 Code is located in FTakeHome.ipynb, but if you'd like to compile it yourself the tools to compile will be located below.
-# the .ipynb file might take long to load. If it fails please refresh.
+The .ipynb file might take long to load. If it fails please refresh.
 
 # How to compile (although Jupyter Notebook FTakeHome.ipynb comes pre compiled)
 Jupyter Notebook is a Python tool that allows you to step your code and from a presentation standpoint allows people who are looking at it a better sense into what went into each step of the process.
