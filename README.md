@@ -16,7 +16,8 @@ Jupyter Notebook is a Python tool that allows you to step your code and from a p
 
 
 When using this program make sure the supplementary files are in the same folder as the .ipynb (Jupyter Notebook file type)
-
+If you wanted to use a different JSON file or use a JSON that's at a different location in your drive, you can change the file pathing in the top cell.
+(Currently the program is able to take in same attribute inputs with 3 different applicants. Will be looking into updating in the future to iteratively add more applicants and also pop the data into a JSON iteratively. It does take in any size of team size you'd please though.)
 
 Open .ipynb and everything should be good to go!
 Step through the process by pressing 'play' (located at the top right of the screen) on the cells and watch live compilation.
