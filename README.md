@@ -4,6 +4,9 @@ Objective: Take in a JSON object with team members and applicants and find a way
 
 Approach: Bottom-up! build a framework that takes in the important information and returns strong feedback.
 
+# How to see code
+Code is located in FTakeHome.ipynb, but if you'd like to compile it yourself the tools to compile will be located below
+
 # How to compile (although Jupyter Notebook FTakeHome.ipynb comes pre compiled)
 Jupyter Notebook is a Python tool that allows you to step your code and from a presentation standpoint allows people who are looking at it a better sense into what went into each step of the process.
 
